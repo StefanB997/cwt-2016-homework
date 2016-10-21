@@ -70,9 +70,12 @@ h2{
 	text-decoration:underline;
 	font-size:20px;
 	font-family:sans-serif;
-	margin:0px 150px 0;
+	margin:0px 200px 0 150px;
 	background-color:orange;
 	padding:0 20px;
+	border-right: 3px solid black;
+	border-bottom: 3px solid black;	
+
 }
 
 .spandva{
@@ -82,8 +85,63 @@ h2{
 
 }
 
-.glavenvtor{
+.evropa{
 	font-size:19px;
 	font-family:sans-serif;
 	text-transform: uppercase;
+	border-left: 3px solid black;
+	border-bottom-width: 100%;
+	border-bottom: 3px solid black;
+	webkit-text-stroke: .1px black;
+
+	
+
 }
+
+.spantri{
+	font-size:40px;
+	text-decoration: underline;
+	color:white;
+	text-align:center;
+}
+.prewar{
+	float:left;
+	text-transform: uppercase;
+	font-family:sans-serif;
+	font-size:19px;
+	text-align:left;
+	margin:0 1014px 0 0;
+	border-top: 3px solid black;
+	border-right:3px solid black;
+	border-bottom:3px solid black;
+	webkit-text-stroke: .1px black;
+}
+
+.course{
+	font-size:19px;
+	font-family:sans-serif;
+	text-transform: uppercase;
+	border-top: 3px solid black;
+	border-bottom-width: 100%;
+	border-bottom: 3px solid black;
+}
+
+.after{
+	font-size:40px;
+	text-decoration: underline;
+	color:white;
+	text-align:center;
+}
+
+.afterm{
+	color:black;
+	text-transform: uppercase;
+	font-family:sans-serif;
+	font-size:19px;
+	text-align:center;
+	border-top: 3px solid black;
+	border-right:3px solid black;
+	border-bottom:3px solid black;
+	webkit-text-stroke: .5px white;
+}
+
