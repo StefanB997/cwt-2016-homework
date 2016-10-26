@@ -1,0 +1,248 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @StefanB997
+ Watch 0
+  Star 0
+  Fork 0 StefChou/cwt-2016-homework
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs
+Branch: master Find file Copy pathcwt-2016-homework/styles/homework_4.css
+1d28f22  5 days ago
+@StefChou StefChou CSS 1
+1 contributor
+RawBlameHistory     
+229 lines (196 sloc)  3.1 KB
+#body {
+	font-family: sans-serif;
+	margin: 90px 90px;
+}
+.table-top {
+	border-bottom: 3px solid #C38CBE;
+	width: 100%;
+}
+
+.h1-top {
+	text-align: center;
+	font-size: 40px;
+}
+
+.left-border-top {
+	border-left: 3px solid #C38CBE;
+	text-align: center;
+}
+
+.h1-top-right {
+	background-color: #C38CBE;
+	margin: 0px 0px 20px 20px;
+    height: 115px;
+    font-size: 30px;
+    line-height: 115px;
+}
+
+.table-left {
+	float: left;
+	text-align: left;
+	padding-top: 20px;
+	width: 50%;
+	height: 50%;
+	font-size: 20px;
+}
+
+.table-left table {
+	width: 100%;
+}
+
+.embg {
+	border: 3px solid #C38CBE;
+	height: 40px;
+	width: 400px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.contact {
+	border: 3px solid #C38CBE;
+	height: 200px;
+	width: 550px;
+	text-align: left;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.phone {
+	border: 3px solid #C38CBE;
+	height: 40px;
+	width: 250px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.mail {
+	border: 3px solid #C38CBE;
+	height: 40px;
+	width: 550px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.popolnuva {
+	float: right;
+	text-align: right;
+	font-style: italic;
+	margin-right: -50px;*/
+}
+
+.priem {
+	background-color: #C38CBE;
+    height: 156px;
+}
+
+.priem span {
+	float: left;
+	text-align: right;
+    width: 17%;
+    line-height: 40px;
+}
+
+.priem textarea {
+	width: 80%;
+    height: 125px;
+    float: left;
+    margin-left: 5px;
+    border: 0;
+}
+
+.danocen {
+	text-align: center;
+}
+
+.od.textarea {
+	border: 3px solid #C38CBE;
+	height: 40px;
+	width: 80px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.od.textarea.god {
+	border: 3px solid #C38CBE;
+	height: 40px;
+	width: 160px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.input-border-small-2 {
+	border: 3px solid #C38CBE;
+	height: 40px;
+	width: 80px;
+	text-align: center;
+	float: right;
+}
+
+.ostvareni {
+	padding: 20px 0 0 0;
+	width: 100%;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.ostvareni img {
+	margin: 0 5px 0 0;
+}
+
+.ostvareni p {
+	text-align: right;
+	font-style: italic;
+	padding: 20px 0 0 0;
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+.ostvareni .p-levo {
+	text-align: right;
+}
+
+.tabela {
+	border: 3px solid #C38CBE;
+	width: auto;
+	margin-top: 0px;
+	width: 100%;
+}
+
+.tabela th.tabela-wider {
+	width: 40%;
+}
+
+.tabela th.tabela-wider-0 {
+	width: 2%;
+}
+
+.tabela th.tabela-wider-1 {
+	width: 26%;
+}
+
+.tabela th.tabela-wider-2 {
+	width: 16%;
+}
+
+.tabela input {
+	border: 3px solid #C38CBE;
+	height: 40px;
+	text-align: right;
+	width: 97%;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.potpis {
+	border: 3px solid #C38CBE;
+	height: 40px;
+	width: 400px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 10px 10px 10px 10px;
+}
+
+.contact-small {
+	border: 3px solid #C38CBE;
+	height: 100px;
+	width: 550px;
+	text-align: right;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.table-bottom {
+	border-bottom: 3px solid black;
+	width: 100%;
+	padding-top: 10%;
+}
+
+.h1-bottom {
+	text-align: center;
+	font-size: 40px;
+}
+
+.left-border-bottom {
+	border-left: 3px solid black;
+	text-align: center;
+}
+
+.h1-bottom-right {
+	background-color: #C38CBE;
+	margin: 0px 0px 20px 20px;
+    height: 115px;
+    font-size: 30px;
+    line-height: 115px;
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help
