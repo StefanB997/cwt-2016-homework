@@ -51,9 +51,9 @@ body{
 .od1{
 	padding-left:200px;
 	border: 2px solid;
-	border-color:#DA70D6
+	border-color:#DA70D6;
 	font-weight:bold;
-	font-size:20px;
+	font-size:30px;
 }
 .od{
 	font-weight:bold;
@@ -62,3 +62,21 @@ body{
 .ispravka{
 	padding-right:200px;
 }
+.naslovi{
+	font-weight: bold;
+	padding:50px 0 ;
+}
+.borda{
+	border: 2px solid;
+	border-color:#DA70D6;
+	width: 100%;
+}
+.borda2{
+	border:2px solid;
+	border-color:#DA70D6;
+}
+.glupson{
+	border:2px solid;
+	border-color:#DA70D6;
+	text-align:right;
+	}
