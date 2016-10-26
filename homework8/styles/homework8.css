@@ -1,0 +1,63 @@
+body{
+	margin:150px 40px 0 40px ;
+	background-color:orange;
+}
+
+.nav a{
+	border: 2px solid;
+	border-color:blue;
+	margin:0 10px 10px 0;
+	display: block;
+	float:left;
+	padding:50px;
+	background-color:lightblue;
+	font-weight: bold;
+	font-size:25px;
+	text-decoration: none;
+	font-family: "Georgia"
+	height:10px;
+}
+.nav a:hover{
+	background-color:lightgreen;
+	transition: .3s ease-in-out;
+}
+
+.nav2 a{
+	border: 10px solid;
+	border-color:yellow;
+	display: block;
+	float:left;
+	padding:50px;
+	background-color:green;
+	font-weight: bold;
+	font-size:16px;
+	text-decoration: none;
+	font-family: "serif"
+	font-style: italic;
+}
+.nav2 a:hover{
+	background-color:cyan;
+}
+
+.nav3 a{
+	border: 2px solid;
+	border-color:black;
+	display:block;
+	float:left;
+	background-color: #888888 ;
+	font-weight: bold;
+	font-size:20px;
+	text-decoration: none;
+	font-family: "serif"
+	font-style:sans-serif;
+	margin:50px 30px;
+	transition: .5s ease-in-out;
+	text-transform:uppercase;
+	padding: 3px 3px 3px 3px;
+	text-align: center;
+}
+.nav3 a:hover{
+	background-color:black;
+	color:silver;
+
+}
