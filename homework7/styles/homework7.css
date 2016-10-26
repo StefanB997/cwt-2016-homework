@@ -90,13 +90,12 @@ h2{
 	padding-left:700px;
 }
 .naslov2{
-	padding-left:500px;
 	text-align: center;
 	font-size:40px;
 	text-transform: uppercase;
 }
 .pdd2{
-	font-size:25px;
+	font-size:25px ;
 	font-weight: bold;
 	background-color: #DA70D6;
 	padding-left
@@ -104,4 +103,9 @@ h2{
 .fazla{
 	padding-left:50px;
 	padding-right: 700px;
+}
+.naslov2{
+	font-size:40px;
+	border-bottom: 3px solid;
+	
 }
