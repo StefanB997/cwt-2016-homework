@@ -79,4 +79,29 @@ body{
 	border:2px solid;
 	border-color:#DA70D6;
 	text-align:right;
-	}
+}
+h4{
+	text-transform: uppercase;
+}
+h2{
+	text-transform: uppercase;
+}
+.kraj{
+	padding-left:700px;
+}
+.naslov2{
+	padding-left:500px;
+	text-align: center;
+	font-size:40px;
+	text-transform: uppercase;
+}
+.pdd2{
+	font-size:25px;
+	font-weight: bold;
+	background-color: #DA70D6;
+	padding-left
+}
+.fazla{
+	padding-left:50px;
+	padding-right: 700px;
+}
