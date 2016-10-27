@@ -1,0 +1,111 @@
+body{
+	margin:0 40px 0 40px;
+}
+.naslov{
+	text-align:center;
+	width:80%;
+	font-size:20px;
+	border-bottom: 2px solid;
+	border-color:#DA70D6;
+}
+.granica{
+	padding:20px; 
+	border-left: 2px solid;
+	border-color: #DA70D6;
+}
+.pdd{
+	background-color:#DA70D6;
+	font-weight: bold;
+	font-size:30px;
+	padding:40px;
+	text-align:center;
+	border-bottom: 2px solid;
+	border-color:#DA70D6;
+}
+.embg{
+	border:2px solid;
+	border-color:#DA70D6;
+}
+.datum{
+	padding-left:400px;
+	padding-top:100px;
+	background-color:#DA70D6;	
+}
+.imeprezime{
+	border: 2px solid;
+	border-color:#DA70D6;
+}
+.telefon{
+	border: 2px solid;
+	border-color:#DA70D6;
+}
+.email{
+	border: 2px solid;
+	border-color:#DA70D6;
+}
+.period{
+	padding-left:200px;
+	padding-bottom:30px;
+	
+}
+.od1{
+	padding-left:200px;
+	border: 2px solid;
+	border-color:#DA70D6;
+	font-weight:bold;
+	font-size:30px;
+}
+.od{
+	font-weight:bold;
+	padding-left:200px;
+}
+.ispravka{
+	padding-right:200px;
+}
+.naslovi{
+	font-weight: bold;
+	padding:50px 0 ;
+}
+.borda{
+	border: 2px solid;
+	border-color:#DA70D6;
+	width: 100%;
+}
+.borda2{
+	border:2px solid;
+	border-color:#DA70D6;
+}
+.glupson{
+	border:2px solid;
+	border-color:#DA70D6;
+	text-align:right;
+}
+h4{
+	text-transform: uppercase;
+}
+h2{
+	text-transform: uppercase;
+}
+.kraj{
+	padding-left:700px;
+}
+.naslov2{
+	text-align: center;
+	font-size:40px;
+	text-transform: uppercase;
+}
+.pdd2{
+	font-size:25px ;
+	font-weight: bold;
+	background-color: #DA70D6;
+	padding-left
+}
+.fazla{
+	padding-left:50px;
+	padding-right: 700px;
+}
+.naslov2{
+	font-size:40px;
+	border-bottom: 3px solid;
+	
+}

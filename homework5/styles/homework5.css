@@ -1,0 +1,13 @@
+.naslov{
+	text-align:center;
+	font-size:45px;
+}
+.pdd{
+	float:right;
+	background-color:pink;
+	font-size:45px;
+	font-weight:90;
+}
+.embg{
+	margin: 20 10;
+}
