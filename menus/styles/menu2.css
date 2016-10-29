@@ -1,0 +1,107 @@
+.menu1{
+	margin-right:85%;
+	text-align: left;
+	list-style: none;
+	font-size:40px;
+	background-color: #68FF33;
+}
+.menu1 a{
+	display: inline-grid;
+	text-decoration: none;
+	color: white;
+	color: white;
+   -webkit-text-fill-color: white;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+
+}
+.menu1 a:hover{
+	display: block;
+	transition: .3s ease-in-out;
+	background-color: green;
+	border-radius: 10px 10px 10px 10px;
+}
+.menu2{
+	margin:20px 0 0 20px;
+	padding: 30px;
+	background-color: #067DAD;
+	margin-right:60%;
+	border-radius: 50px 0px 0px 50px;
+}
+.menu2 a{
+	display: block;
+	text-decoration: none;
+	font-size:50px;
+	color: #F9C63F;
+	padding: 0 20px;
+}
+.menu2 a:hover{
+
+	background-color:white;
+	color: black;
+	border-radius: 50px 0px 0px 50px;
+	width: 100%;
+	border: 2px solid;
+	border-color: purple;
+
+}
+.menu3{
+
+	list-style: none;
+	text-align: center;
+	background-color: ;
+	font-size: 40px;
+	padding: 20px;
+}
+.menu3 a{
+	padding: 7px;
+	text-decoration: none;
+	background-color: #000000;
+	color: #058C5F;
+}
+.menu3 a:hover{
+	color:white;
+	background-color: purple;
+	transition: .4s ease-in-out;
+}
+.menu4{
+	list-style: none;
+	margin:0;
+	padding: 50px;
+	background-color: #CF4848;
+	margin-right:75%;
+}
+.menu4 a{
+	font-size: 30px;
+	border: 2px solid;
+	border-color:black;
+	color:black;
+	text-decoration: none;
+	background-color: #7394E4;
+	padding: 0px 50px;
+	margin: 50px;
+}
+.menu4 a:hover{
+	background-color: #5F1568;
+	color:white;
+	transition: .6s ease-in-out;
+}
+
+.menu5{
+	margin: 0;
+	padding: 0;
+	list-style: none;	
+}
+.menu5 a{
+	text-decoration: none;
+	font-size: 60px;
+	background-color: #6CFF60;
+	color: #4A499A;
+	padding: 10px 10px;
+}
+.menu5 a:hover{
+	border: 2px solid;
+	border-color: black;
+	background-color: #4A499A;
+	color:white;
+}
