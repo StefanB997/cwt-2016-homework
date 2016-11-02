@@ -6,81 +6,220 @@ body{
 	margin: 0 auto;
 	width: 100%;
 	height: 200px;
-	background-color: black;
+	background-color: #E9E9F0;/*POZADISNKA BOJA NA SEKOJ MAIN DIV*/
 }
 .login{
 	width: 100%;
 	height:100px;
-	background-color: silver;
+	background-color: #CED8B1;
 }
 .nav{
 	width: 100%;
 	height: 100px;
-	background-color: green;
+	background-color: #AAC657;
 }
 .post{
 	float:left;
 	width: 20%;
 	height: 600px;
-	background-color: black;
+	background-color: #E9E9F0;
 }
 .p1{
 	width: 100%;
 	height: 150px;
-	background-color: blue;
+	background-color: #7DA015;
 }
 .p2{
 	width: 100%;
 	height: 150px;
-	background-color: lightblue;
+	background-color: #668300;
 
 }
 .p3{
 	width: 100%;
 	height: 150px;
-	background-color: lightgreen;
+	background-color: #495D00;
 }
 .p4{
 	width: 100%;
 	height: 150px;
-	background-color: gray;
+	background-color: #2F3C00;
 }
 .post2{
 	float:left;
 	width: 60%;
 	height: 600px;
-	background-color: black;
+	background-color: #E9E9F0;
 }
 .p1-2{
 	width: 100%;
 	height: 450px;
-	background-color: red;
+	background-color: #E4D190;
 }
 .p2-2{
 	width: 50%;
 	height: 150px;
-	background-color: green;
+	background-color: #AF9746;
 	float: right;
 }
 .p3-2{
 	width: 50%;
 	height: 150px;
-	background-color: blue;
+	background-color: #937A23;
 	float: left;
 }
 .post3{
 	width: 100%;
 	height: 600px;
-	background-color: black;
+	background-color: #E9E9F0;
 }
 .p1-3{
 	width: 100%;
 	height: 100%;
-	background-color: lightblue;
+	background-color: #82DBDF;
 
 }
 .p2-3{
 	width: 100%;
 	height: 50%;
-	background-color: lightgreen;
+	background-color: #3A9EA3;
+}
+.main2{
+	width: 100%;
+	height: 1000px;
+	background-color: #E9E9F0;
+}
+.big{
+	width: 75%;
+	height: 1265px;
+	float: left;
+	background-color: #85A8C6;
+}	
+.small{
+	float: right;
+	width: 25%;
+	height: 1265px;
+	background-color: #2C5579;
+}
+.mpost{
+	margin: 10px 0 0 0;
+	height: 50px;
+	width: 75%;
+	background-color: #10259E;
+}
+.mpost-g{
+	margin: 10px 0 0 0;
+	height: 100px;
+	width: 85%;
+	background-color: #10259E;
+}
+.spac{
+	width: 100%;
+	height: 1145px;
+	background-color: #E9E9F0;
+}
+.corn{
+	width: 100%;
+	height: 120px;
+	background-color: #4D4E56;
+}
+.main3{
+	float: left;
+	height: 800px;
+	width: 100%;
+	background-color: #E9E9F0;
+}
+.big-1{
+	height: 300px;
+	width: 100%;
+	background-color: #F0E35E;
+}
+.big2{
+	float: left;
+	height: 300px;
+	width: 100%;
+	background-color: #E9E9F0;
+}
+.tmbx{
+	margin-left: 50px;
+	float: left;
+	width: 250px;
+	height: 200px;
+	background-color: #A79C2E;
+}
+.big-3{
+	width: 100%;
+	height: 300px;
+	background-color: #E9E9F0;
+}
+.stack{
+	float: left;
+	width: 80%;
+	height: 250px;
+	background-color: #CF863B;
+}
+.roll{
+	float: right;
+	width: 20%;
+	height: 250px;
+	background-color: #9C540A;
+}
+.main4{
+	float:left;
+	width: 100%;
+	height: 1100px;
+	background-color: #E9E9F0;
+}
+.list{
+	width: 65%;
+	height: 500px;
+	background-color: #75F681;
+}
+.li{
+	margin: 20px 0 0 0;
+	width: 100%;
+	height: 60px;
+	background-color: #23DA34;
+}
+.tumb-z{
+	float: left;
+	margin: 10px  0 0 10px;
+	width: 300px;
+	height: 150px;
+	background-color: #6CCCE6;
+}
+.tumb{
+	width: 100%;
+	height: 170px;
+	background-color:#E9E9F0; 
+}
+.tumb2{
+	width: 100%;
+	height: 170px;
+	background-color: #E9E9F0;
+}
+.tumb-z2{
+	margin: 10px  0 0 23px;
+	width: 30%;
+	height: 60px;
+	background-color: #102468;
+	float: left;
+}
+.end{
+	float:left;
+	width: 100%;
+	height: 800px;
+	background-color: #E9E9F0;
+}
+.end1{
+	width: 100%;
+	height: 400px;
+	background-color: #E9E9F0;
+}
+.pic1{
+	margin:10px 20px 20px 10px ;
+	float:left;
+	width: 150px;
+	height: 100px;
+	background-color: #20A09C;
 }
